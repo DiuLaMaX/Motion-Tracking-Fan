@@ -7,9 +7,11 @@ current position of each face and the desired position, an error is calculated. 
 the P controller determines the control effort that controls the stepper motor to track a 
 person until the error reaches zero. 
 
+Below is the program flowchart.
+
 ![plot](./Images/Program Flowchart.PNG)
 
-Here is the circuit. 
+Below is the circuit. 
 
 ![plot](./Images/Circuit.PNG)
 
