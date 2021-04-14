@@ -9,7 +9,7 @@ person until the error reaches zero.
 
 Below is the program flowchart.
 
-![plot](./Images/Program Flowchart.PNG)
+![plot](./Images/Program%20Flowchart.PNG)
 
 Below is the circuit. 
 
